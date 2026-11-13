@@ -1,0 +1,9 @@
+{
+    "version": "buddy-open 1.0.0",
+    "chip": "esp32s3",
+    "files": {
+        "bootloader.bin": "bbf687a7854fa1bdf8d32f35fc8d3deb59ac963b0c5f3e944129a763cff0558d",
+        "buddy.bin": "b6320748e6092355aea24c770065aff675c5f5bd5b14049a9414e5113f649e36",
+        "partition-table.bin": "b5f42b3c278d926090f63b5a5f7043fe0ddacd8ec1ae169b2d8645602e2b055d"
+    }
+}
